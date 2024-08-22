@@ -1,0 +1,244 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+.box
+{
+    height: 400px;
+    width: 500px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+    background-color: #12f596;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+h1
+{
+    font-size: 40px;
+    text-align: left;
+    padding-left: 30px;
+    margin-top: 5%;
+}
+p
+{
+    font-size: 17px;
+    text-align: left;
+    padding-left: 50px;
+}
+.btn
+{
+    margin: 30px;
+    text-align: left;
+    display: flex;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 30px;
+    border-radius: 35px;
+    border: none;
+}
+.box-2
+{
+    height: 350px;
+    width: 500px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+    /* background-color: #12f596; */
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.profile
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.profile1
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-top: 10%;
+}
+h2
+{
+    font-size: 30px;
+    text-align: left;
+    padding-left: 30px;
+    color: #000000;
+    margin-top: -10%;
+}
+p
+{
+    font-size: 20px;
+    text-align: left;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.inner-box
+{
+    margin-top: 4%;
+    text-align: left;
+    padding-left: 5%;
+    font-size: 18px;
+    /* font-weight: 600; */
+    height: 54px;
+    width:  472px;
+    border: 1px solid grey;
+    border-radius: 0 0 10px 10px;
+}
+.inner-box a
+{
+    text-decoration: none;
+    line-height: 54px;
+    color: #067cc0;
+}
+.box-3
+{
+    height: 600px;
+    width: 500px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+    /* background-color: #12f596; */
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: rgba(5, 5, 53, 47);
+}
+.nature
+{
+    margin-top: -16%;
+    border-radius:10px 10px 0 0;
+    object-fit: cover;
+}
+#lock
+{
+    height: 30px;
+    float: left;
+    margin-left: 5%;
+} 
+.head
+{
+    font-size: 20px;
+    margin-left: -10%;
+}
+.box-3 h2
+{
+    margin-top: 5%;
+    font-size: 30px;
+}
+.para
+{
+    font-size: 20px;
+    color: #636363;
+}
+.btn-lock
+{
+    margin: 30px;
+    text-align: left;
+    display: flex;
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 30px;
+    border-radius: 5px;
+    border: 1px solid #636363;
+    color: #067cc0;
+}
+.box-4
+{
+    height: 600px;
+    width: 500px;
+    border: 1px solid #000;
+    margin: 50px auto;
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+    /* background-color: #12f596; */
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#profile
+{
+    height: 60px;
+}
+h4
+{
+    text-align: center;
+    margin-top: 5%;
+}
+.email
+{
+    font-size: 15px;
+    padding: 10px 40px;
+    display: flex;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.password
+{
+    font-size: 15px;
+    padding: 10px 40px;
+    display: flex;
+    margin-left: 20%;
+    margin-top: -1%;
+}
+.login
+{
+    margin: 30px;
+    text-align: center;
+    display: flex;
+    padding: 15px 30px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 29%;
+    border-radius: 35px;
+    background-color: #000;
+    color: white;
+    border: none;
+}
+.pass
+{
+    font-size: 16px;
+    text-align: center;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+.pass a
+{
+    color: #343434;
+}
+a
+{
+    color: #343434;
+    margin-right: 3%;
+    font-size: 15px;
+}
+.one
+{
+    font-size: 13px;
+    margin-top: 10%;
+    text-align: center;
+    margin-right: 5%;
+}
+.two
+{
+    font-size: 13px;
+    margin-top: 1%;
+    text-align: center;
+    margin-right: 5%;
+}
